@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FXADScrollView_Example' do
+  pod 'FXADScrollView', :path => '../'
+
+  target 'FXADScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

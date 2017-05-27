@@ -1,0 +1,16 @@
+PODS:
+  - FXADScrollView (0.1.0)
+
+DEPENDENCIES:
+  - FXADScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  FXADScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXADScrollView: fe17d6d5539482dd6a69cc55493f240ac3402ec4
+
+PODFILE CHECKSUM: '0349f66dad4e4dbe20b2165370a020c500408825'
+
+COCOAPODS: 1.2.1

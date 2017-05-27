@@ -1,0 +1,6 @@
+framework module FXADScrollView {
+  umbrella header "FXADScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
